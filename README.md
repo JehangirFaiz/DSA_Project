@@ -60,3 +60,5 @@ The Queue follows the FIFO (First In, First Out) principle. It is implemented us
 
 ``Display (display()):`` O(n), where n is the number of elements in the queue.
 
+# LinkedIn post :
+https://www.linkedin.com/posts/jehangir-faiz-a1b88b260_recently-i-had-the-opportunity-to-work-on-activity-7286373081990766592-8QUy?utm_source=share&utm_medium=member_desktop
